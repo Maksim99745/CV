@@ -23,7 +23,7 @@ Front-end Developer with 2 years of
  Exchange, Armtek, Baltika, Alfa
 Leasing, and others. 
 I also have experience developing a
- live online store — | [TG](https://t.me/paybrobot) | [Presentation](https://abistep.ru/case_psn) |
+ live online store — [Paybro](https://t.me/paybrobot)  [Presentation](https://abistep.ru/case_psn) 
 
 ## Stack and Tools
 
