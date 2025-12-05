@@ -12,13 +12,18 @@ Hi, I'm Maksim, front-end developer! 👋
 
 ## About Me
 
-I am a Front-End Developer with 1.5 years of 
-experience. Successfully finished 15-month 
-training at EPAM Group.
-Currently, I work on a major HR platform at 
-[PRYANIKY](https://pryaniky.com/en/hr-platform-pryaniky/). My primary specialization is React. I 
-am fluent in English, Turkish, and Serbian.
-In my free time, I enjoy cycling and going to the gym.
+Front-end Developer with 2 years of
+ experience.
+ Currently working on a large HR
+ platform, where I develop features
+ using React, estimate development
+ effort and cost, build components and
+ commercial modules, and fix bugs for
+ clients such as the Moscow
+ Exchange, Armtek, Baltika, Alfa
+Leasing, and others. 
+I also have experience developing a
+ live online store — @paybrobot.
 
 ## Stack and Tools
 
