@@ -7,7 +7,7 @@ Hi, I'm Maksim, front-end developer! 👋
 > 🧠 _A concise overview of my experience, projects, and skills._
 - **E-mail:** maksimmuhametzyanov11@gmail.com
 - **Discord:** Maksim99745
-- **Telegram:** [Write me in the Telegram](https://t.me/WeChat1244)
+- **Telegram:** [Write me in the Telegram](https://t.me/Maksim99745)
 - **GitHub:** [Maksim99745](https://github.com/Maksim99745/)
 
 ## About Me
