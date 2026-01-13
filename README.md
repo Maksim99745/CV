@@ -43,7 +43,7 @@ I also have experience developing a
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Husky](https://img.shields.io/badge/Husky-3572A5?style=for-the-badge&logo=husky&logoColor=white)
 
-## My commercial projects
+## My freelance commercial projects
 
 | Project Title      | Deploy Link       | More info       |
 |--------------------|-------------------|-------------------|
@@ -51,7 +51,7 @@ I also have experience developing a
 | Sushi shop with JQuery | [TG](https://t.me/Delivery_and_order_bot)  | [Presentation](https://abistep.ru/case_sushilka)|
 | Spotify payment bot| [TG](https://t.me/Spotify_99745_bot)  |
 
-## My school projects
+## My educational pet projects
 
 | Project Title      | Deploy Link       |
 |--------------------|-------------------|
