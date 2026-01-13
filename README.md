@@ -15,7 +15,7 @@ Hi, I'm Maksim, front-end developer! 👋
 Front-end Developer with 2 years of
  experience.
  Currently working on a large HR
- platform, where I develop features
+ platform — [Priyaniki][https://pryaniky.com/en/hr-platform-pryaniky/)), where I develop features
  using React, estimate development
  effort and cost, build components and
  commercial modules, and fix bugs for
