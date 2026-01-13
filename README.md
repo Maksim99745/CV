@@ -49,6 +49,7 @@ I also have experience developing a
 |--------------------|-------------------|-------------------|
 | Real working video-games online shop with bot on NodeJS    | [TG](https://t.me/paybrobot) | [Presentation](https://abistep.ru/case_psn) |
 | Sushi shop with JQuery | [TG](https://t.me/Delivery_and_order_bot)  | [Presentation](https://abistep.ru/case_sushilka)|
+| Spotify payment bot| [TG](https://t.me/Spotify_99745_bot)  |
 
 ## My school projects
 
