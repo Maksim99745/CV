@@ -55,7 +55,7 @@ I also have experience developing a
 | Project Title      | Deploy Link       |
 |--------------------|-------------------|
 | Chat analitics Bot | [Repo](https://github.com/Maksim99745/Chat_weather_bot) |
-| History animations (React animations) | [Repo](https://github.com/Maksim99745/history-animation) |
+| History animations (GSAP animations) | [Deploy](https://endearing-dragon-f50828.netlify.app/) |
 | CRUD-tables (React) (Login only with password - password)        | [Tables](https://incandescent-melba-e31025.netlify.app) |
 | Snake-game (React)         | [Snake](https://snake-game--rainbow-mooncake-8667c4.netlify.app/) |
 | React-forms (React-hook-forms)        | [React-forms  ](https://forms--unique-beijinho-c6beb5.netlify.app/) |
