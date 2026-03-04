@@ -54,6 +54,7 @@ I also have experience developing a
 
 | Project Title      | Deploy Link       |
 |--------------------|-------------------|
+| Playable ad |[Lending](https://adlending.netlify.app)|
 | Slot stars game | [Deploy - only mobile](https://tiny-pony-06116b.netlify.app/) |
 | Chat analitics Bot | [Repo](https://github.com/Maksim99745/Chat_weather_bot) |
 | History animations (GSAP animations) | [Deploy](https://endearing-dragon-f50828.netlify.app/) |
