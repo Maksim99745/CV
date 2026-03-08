@@ -50,6 +50,7 @@ Leasing, and others.
 | Playable ad |[Lending](https://adlending.netlify.app)|
 | History animations (GSAP animations) | [Deploy](https://endearing-dragon-f50828.netlify.app/) |
 | Slot stars game | [Deploy - only mobile](https://tiny-pony-06116b.netlify.app/) |
+| Coffee-house       | [Coffee-house](https://rolling-scopes-school.github.io/maksim99745-JSFE2023Q4/Coffee-House/index.html) |
 | Chat analitics Bot | [Repo](https://github.com/Maksim99745/Chat_weather_bot) |
 | React-forms (React-hook-forms)        | [React-forms  ](https://forms--unique-beijinho-c6beb5.netlify.app/) |
 | Star-wars library  (NextJs)           | [Star-wars library](https://fggdgdfddddg.vercel.app/) |
@@ -60,6 +61,5 @@ Leasing, and others.
 | Puzzles        | [Puzzle](https://rolling-scopes-school.github.io/maksim99745-JSFE2023Q4/rss-puzzle/index.html) |
 | Unsplash API       | [Image galery](https://rolling-scopes-school.github.io/maksim99745-JSFEPRESCHOOL2023Q2/image-galery/)|
 | Audio player       | [Audio player](https://rolling-scopes-school.github.io/maksim99745-JSFEPRESCHOOL2023Q2/audio-player/) |
-| Coffee-house       | [Coffee-house](https://rolling-scopes-school.github.io/maksim99745-JSFE2023Q4/Coffee-House/index.html) |
 | Css mem slider     | [Css mem slider ](https://maksim99745.github.io/cssMemeSlider/cssMemeSlider/index.html) |
 
