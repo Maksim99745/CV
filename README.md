@@ -1,6 +1,6 @@
 # Maksim99745
 
-Hi, I'm Maksim, front-end developer! 👋
+Hi, I'm Maksim, a front-end developer! 👋
 
 ## My Contacts
 > ## 💎 **[📄 View My CV →](https://drive.google.com/file/d/1OHw2_X0xc_1t3vFloPYqao0DnI9ot7t6/view?usp=drive_link)**
@@ -11,7 +11,7 @@ Hi, I'm Maksim, front-end developer! 👋
 
 ## About Me
 
-Front-end Developer with 2 years of
+Front-end Developer with 3 years of
  experience.
  Currently working on a large HR
  platform — [Pryaniki](https://pryaniky.com/en/hr-platform-pryaniky/), where I develop features
@@ -21,8 +21,6 @@ Front-end Developer with 2 years of
  clients such as the Moscow
  Exchange, Armtek, Baltika, Alfa
 Leasing, and others. 
-I also have experience developing a
- live online store — [Paybro](https://t.me/paybrobot)  [Presentation](https://abistep.ru/case_psn) 
 
 ## Stack and Tools
 
@@ -42,33 +40,24 @@ I also have experience developing a
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Husky](https://img.shields.io/badge/Husky-3572A5?style=for-the-badge&logo=husky&logoColor=white)
 
-## My freelance commercial projects
+## My projects
 
 | Project Title      | Deploy Link       | More info       |
 |--------------------|-------------------|-------------------|
 | Video-games online shop with bot on NodeJS    | [TG](https://t.me/paybrobot) | [Presentation](https://abistep.ru/case_psn) |
 | Sushi shop with JQuery | [TG](https://t.me/Delivery_and_order_bot)  | [Presentation](https://abistep.ru/case_sushilka)|
 | Spotify payment bot| [TG](https://t.me/Spotify_99745_bot)  |
-
-## My educational pet projects
-
-| Project Title      | Deploy Link       |
-|--------------------|-------------------|
 | Playable ad |[Lending](https://adlending.netlify.app)|
+| History animations (GSAP animations) | [Deploy](https://endearing-dragon-f50828.netlify.app/) |
 | Slot stars game | [Deploy - only mobile](https://tiny-pony-06116b.netlify.app/) |
 | Chat analitics Bot | [Repo](https://github.com/Maksim99745/Chat_weather_bot) |
-| History animations (GSAP animations) | [Deploy](https://endearing-dragon-f50828.netlify.app/) |
-| CRUD-tables (React) (Login only with password - password)        | [Tables](https://incandescent-melba-e31025.netlify.app) |
-| Snake-game (React)         | [Snake](https://snake-game--rainbow-mooncake-8667c4.netlify.app/) |
 | React-forms (React-hook-forms)        | [React-forms  ](https://forms--unique-beijinho-c6beb5.netlify.app/) |
 | Star-wars library  (NextJs)           | [Star-wars library](https://fggdgdfddddg.vercel.app/) |
-| Online shop (server needed)           | [Online shop ](https://github.com/Maksim99745/eCommerce-Application) |
-| Fun-chat (server needed)          | [Fun-chat ](https://github.com/Maksim99745/fun-chat-2) |
-| Async-race  (server needed)           | [Async-race](https://github.com/Maksim99745/async-race-personal) |
-| RSS Puzzle        | [RSS Puzzle](https://rolling-scopes-school.github.io/maksim99745-JSFE2023Q4/rss-puzzle/index.html) |
+| Snake-game (React)         | [Snake](https://snake-game--rainbow-mooncake-8667c4.netlify.app/) |
 | Nonograms-game     | [Nonograms-game](https://rolling-scopes-school.github.io/maksim99745-JSFE2023Q4/nonograms//index.html) |
 | Hangman-game       | [Hangman-game](https://rolling-scopes-school.github.io/maksim99745-JSFE2023Q4/hangman/index.html) |
 | Tic-tac-toe        | [Tic-tac-toe ](https://rolling-scopes-school.github.io/maksim99745-JSFEPRESCHOOL2023Q2/tic-tac-toe/) |
+| Puzzles        | [Puzzle](https://rolling-scopes-school.github.io/maksim99745-JSFE2023Q4/rss-puzzle/index.html) |
 | Unsplash API       | [Image galery](https://rolling-scopes-school.github.io/maksim99745-JSFEPRESCHOOL2023Q2/image-galery/)|
 | Audio player       | [Audio player](https://rolling-scopes-school.github.io/maksim99745-JSFEPRESCHOOL2023Q2/audio-player/) |
 | Coffee-house       | [Coffee-house](https://rolling-scopes-school.github.io/maksim99745-JSFE2023Q4/Coffee-House/index.html) |
