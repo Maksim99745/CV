@@ -29,6 +29,7 @@ Leasing, and others.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue](https://img.shields.io/badge/Vue-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
@@ -43,6 +44,7 @@ Leasing, and others.
 
 | Project Title      | Deploy Link       | More info       |
 |--------------------|-------------------|-------------------|
+| Pronađi Delo (Find an autopart)   |  | Cheap autoparts aggregator on Vue |
 | Video-games online shop with bot on NodeJS    | [TG](https://t.me/paybrobot) | [Presentation](https://abistep.ru/case_psn) |
 | Sushi shop with JQuery | [TG](https://t.me/Delivery_and_order_bot)  | [Presentation](https://abistep.ru/case_sushilka)|
 | Spotify payment bot| [TG](https://t.me/Spotify_99745_bot)  |
